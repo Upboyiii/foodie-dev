@@ -1,0 +1,6 @@
+com\imooc\service\impl\ItemServiceImpl.class
+com\imooc\service\impl\UserServiceImpl.class
+com\imooc\service\impl\TestTransServiceImpl.class
+com\imooc\service\ItemService.class
+com\imooc\service\TestTransService.class
+com\imooc\service\UserService.class
